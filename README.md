@@ -10,12 +10,12 @@ Olá, sou Jander! 👋<br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40"/>
-</div> 
+</div> <br><br><br>
 
 <di>
-  <a href="https://www.linkedin.com/in/jander-alves-07710b221/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" target="_blank"></a>  
-  <a href="https://www.instagram.com/jandergustavo/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" width="40" height="40" target="_blank"></a>
-</div>
+  <a href="https://www.linkedin.com/in/jander-alves-07710b221/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" height="35" target="_blank"></a>  
+  <a href="https://www.instagram.com/jandergustavo/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" width="35" height="35" target="_blank"></a>
+</div> <br><br><br><hr>
 
 <div>
 <a href="https://github.com/Jander94">
