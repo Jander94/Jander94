@@ -1,7 +1,7 @@
 Olá, sou Jander! 👋<br><br>
  &emsp;Tenho 28 anos, moro em Lavras/MG e sou iniciante na área de programação..<br>
  Estou cursando Análise e Desenvolvimento de Sistemas , e mais alguns cursinhos por fora...rsrs,<br>
- no momento atuo como estagiário de desenvolvimento na YouX Group.
+ no momento atuo como Trainee na YouX Group.
  
  Tecnologias e Ferramentas:
 <div>
