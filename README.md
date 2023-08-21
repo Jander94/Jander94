@@ -1,5 +1,5 @@
 Olá, sou Jander! 👋<br><br>
- &emsp;Tenho 28 anos, moro em Lavras/MG e sou desenvolvedor na YouX Group.
+ &emsp;Tenho 29 anos, moro em Lavras/MG e sou desenvolvedor na YouX Group.
  
  Tecnologias e Ferramentas:
 <div>
