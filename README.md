@@ -1,5 +1,5 @@
 Olá, sou Jander! 👋<br><br>
- &emsp;Tenho 29 anos, moro em Lavras/MG e sou Analista de sistemas na YouX Group.
+ &emsp;Moro em Lavras/MG e sou Analista de sistemas na YouX Group.
  
  Tecnologias e Ferramentas:
 <div>
