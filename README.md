@@ -1,5 +1,5 @@
 Olá, sou Jander! 👋<br><br>
- &emsp;Moro em Lavras/MG e sou Analista de sistemas na YouX Group.
+ &emsp;Moro em Lavras/MG e sou Desenvolvedor de software na YouX Group.
  
  Tecnologias e Ferramentas:
 <div>
@@ -19,7 +19,6 @@ Contato:
 <br>
 <div>
 	<a href="https://www.linkedin.com/in/jander-alves-07710b221/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" height="35" target="_blank"></a>&emsp;
-	<a href="https://www.instagram.com/jandergustavo/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" width="35" height="35" target="_blank"></a>
 </div>
 <br><hr>
 
