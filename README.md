@@ -21,9 +21,3 @@ Contato:
 	<a href="https://www.linkedin.com/in/jander-alves-07710b221/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" height="35" target="_blank"></a>&emsp;
 </div>
 <br><hr>
-
-<div>
-	<a href="https://github.com/Jander94">
-	<img height="200px" width="45%" src="https://github-readme-stats.vercel.app/api?username=Jander94&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>&emsp;
-	<img height="200px" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jander94&layout=compact&langs_count=7&theme=highcontrast"/>	
-</div>
